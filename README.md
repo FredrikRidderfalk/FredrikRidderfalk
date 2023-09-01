@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FredrikRidderfalk
-- 👀 I do frontend development and UX/UI
-- 🌱 I’m currently working as an Angular Developer, and I dabble in UX/UI for fun in my free time
-- 💞️ I’m always looking to collaborate on projects or mentoring others
+- 👀 I do frontend development and UX/UI design
+- 🌱 I’m currently working as an Angular Developer with UI/UX responsibilities
+- 💞️ I’m always looking to collaborate on projects or mentoring others (certified teacher)
 - 📫 You'll reach me at ridderfalk@gmail.com
 
 <!---
