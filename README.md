@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=300&size=40&duration=2000&pause=600&color=000000&center=true&repeat=false&width=435&height=60&lines=Fredrik+Ridderfalk)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=300&size=24&duration=2000&pause=600&color=000000&center=true&random=true&width=435&height=60&lines=Frontend+Developer+👾;Programming+Teacher+🧑‍🏫;Accessibility+Consultant+🦾;Food+Geek+🌮;Baker+🥯;Hobbyist+Hairdresser+💈;Writer+✒️;Cat+Dad+🐈;Former+World+No+1+TFT+player+🕹️;Researcher+🥼;High+School+Teacher+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=300&size=24&duration=2000&pause=600&color=000000&center=true&random=true&width=435&height=60&lines=Frontend+Developer+👾;Programming+Teacher+🧑‍🏫;Accessibility+Consultant+🦾;Food+Geek+🌮;Baker+🥯;Hobbyist+Hairdresser+💈;Writer+✒️;Cat+Dad+🐈;Former+World+No+1+TFT+player+🕹️;Molecular+Biologist+🧬;High+School+Teacher+🌱)](https://git.io/typing-svg)
 
 💻 I’m currently working for Odevo building a PWA for work order management, a back office app for property managers, a customer portal for board members & tenants, a component library, and a feature flag management platform.
 
