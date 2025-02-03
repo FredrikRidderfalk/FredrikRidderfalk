@@ -4,7 +4,7 @@
 
 ##
 
-💻 I’m currently working for Odevo building a PWA for work order management, a back office app for property managers, a customer portal for board members & tenants, a component library, and a feature flag management platform.
+💻 I’m currently working for [Odevo](https://odevo.com/) building a PWA for work order management, a back office app for property managers, a customer portal for board members & tenants, a component library, and a feature flag management platform.
 
 🧑‍🏫 My course on accessible development has launched through the Scrimba Frontend Developer Career Path as well as through the [MDN Web Development Certificate Course](https://developer.mozilla.org/en-US/curriculum/core/accessibility/), currently reaching **+1.5 million developers worldwide**
 
